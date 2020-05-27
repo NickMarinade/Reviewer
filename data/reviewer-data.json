@@ -1,6 +1,6 @@
 {
-    "nextId": 2,
-    "files": [
+    "nextId": 3,
+    "items": [
         {
             "id": 1,
             "name": "Harry Potter",
@@ -8,6 +8,12 @@
             "text": "Amazing! No more to added",
             "score": "its over 9000"
 
+        },
+        {
+            "id": 2,
+            "name": "Witcher",
+            "sort": "Game",
+            "score": "Like u in heaven, but a lil above"
         }
         
     ]

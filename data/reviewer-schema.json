@@ -2,7 +2,7 @@
     "title": "Reviewed item",
     "description": "Definition of a reviewed item",
     "type": "object",
-    "properties": {
+    "items": {
         "id": {
             "type": "number"
         },
