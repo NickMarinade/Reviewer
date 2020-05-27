@@ -1,0 +1,29 @@
+{
+    "title": "Reviewed item",
+    "description": "Definition of a reviewed item",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "number"
+        },
+        "name": {
+            "type": "string"
+        },
+        "sort": {
+            "type": "string"
+        },
+        "text": {
+            "type": "string"
+        },
+        "score": {
+            "type": "string"
+        }
+        
+    },
+    "required": [
+        "id",
+        "name",
+        "sort",
+        "score"
+    ]
+}

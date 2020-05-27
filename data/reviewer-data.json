@@ -1,0 +1,14 @@
+{
+    "nextId": 2,
+    "files": [
+        {
+            "id": 1,
+            "name": "Harry Potter",
+            "sort": "Book",
+            "text": "Amazing! No more to added",
+            "score": "its over 9000"
+
+        }
+        
+    ]
+}
