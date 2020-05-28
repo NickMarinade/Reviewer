@@ -20,10 +20,6 @@
         }
         
     },
-    "required": [
-        "id",
-        "name",
-        "sort",
-        "score"
-    ]
+    "required": ["name", "sort", "score"],
+    "additionalProperties": false
 }

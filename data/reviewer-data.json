@@ -1,20 +1,11 @@
 {
-    "nextId": 3,
-    "items": [
-        {
-            "id": 1,
-            "name": "Harry Potter",
-            "sort": "Book",
-            "text": "Amazing! No more to added",
-            "score": "its over 9000"
-
-        },
-        {
-            "id": 2,
-            "name": "Witcher",
-            "sort": "Game",
-            "score": "Like u in heaven, but a lil above"
-        }
-        
-    ]
+  "nextId": 5,
+  "items": [
+    {
+      "id": 2,
+      "name": "Witcher 3",
+      "sort": "Game",
+      "score": "Like u in heaven, but a lil above"
+    }
+  ]
 }
